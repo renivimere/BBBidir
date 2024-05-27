@@ -6,9 +6,11 @@
 
 BBBidir is a project focused on the development and implementation of a buck-boost bidirectional converter. This converter is capable of both charging and discharging operations, making it suitable for various energy storage applications, specifically designed for testing Lithium-ion and Lead-acid batteries.
 
-This project is built upon the **300W Power Supply for Portable Fridge from EVSELab**, incorporating several hardware and firmware hacking and modifications to suit specific needs. 
+This project is built upon the **300W Power Supply for Portable Fridge from [EVSELab](https://evselab.com/)**, incorporating several hardware and firmware hacking and modifications to suit specific needs. 
 
 **These modifications have been legally permitted!!!**
+
+![300W Power Supply for Portable Fridge from EVSELab](images/Fridge_300W.jpg)
 
 ## Features
 
@@ -24,6 +26,7 @@ This project is built upon the **300W Power Supply for Portable Fridge from EVSE
 - **Versatile Applications**: Ideal for use in energy storage systems, renewable energy systems, and electric vehicles.
 - **Enhanced with Modifications**: Includes custom hardware and firmware modifications for improved performance and functionality.
 
+![BBBidir Testing with HPPC](images/BBBidir_Test.jpg)
 ## Note
 
 Due to technology security concerns, the original firmware and schematic will not be disclosed. Apologies for any inconvenience caused.
