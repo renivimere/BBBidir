@@ -1,4 +1,8 @@
 # BBBidir
+EVSELab - HUST
+
+
+Le Minh Quan & Dao Ngoc Tuan
 
 **BBBidir** is an abbreviation for **Buck-Boost Bidirectional Charging/Discharging Converter**.
 
